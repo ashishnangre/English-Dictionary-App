@@ -1,4 +1,5 @@
-# My-Dictionay-App
+# English Dictionary App
+
 Hey hii folks, I am ashish ashish I created one english english application with the help of api. 
 This ensure that whatever you want to find meaning of word simply search on this application it provides all those things.
 
